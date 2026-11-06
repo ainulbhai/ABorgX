@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ainulbhai.github.io/ABorgX/sitemap.xml
